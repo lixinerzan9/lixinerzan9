@@ -1,16 +1,34 @@
-### Hi there 👋
+```
 
-<!--
-**lixinerzan9/lixinerzan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contents
 
-Here are some ideas to get you started:
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+- [Development Environment](#development-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Media](#media)
+- [Learn](#learn)
+- [Security](#security)
+- [Content Management Systems](#content-management-systems)
+- [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
+- [Health and Social Science](#health-and-social-science)
+- [Events](#events)
+- [Testing](#testing)
+- [Miscellaneous](#miscellaneous)
+- [Related](#related)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
